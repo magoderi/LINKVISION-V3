@@ -1,0 +1,8 @@
+{
+  "name": " LinkVision v3",
+  "description": "Professional topographic analysis system for point-to-point wireless links with optimized repeater placement, LOS calculation, and elevation profiles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
